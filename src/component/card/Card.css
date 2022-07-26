@@ -1,0 +1,46 @@
+.card {
+  width: 100%;
+  margin-bottom: 30px;
+}
+.card .thumbnail {
+  background: #eee;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.card .thumbnail img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  transform: scale(1.1);
+}
+.card .content {
+  display: flex;
+  flex-direction: column;
+  padding: 20px 0px;
+}
+.card .content .path {
+  width: 100%;
+  font-family: Outfit;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.03em;
+  text-align: left;
+  color: rgb(176, 176, 176);
+}
+.card .content .path span {
+  color: #3B3434;
+}
+.card .content .title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: Outfit;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: -0.03em;
+  text-align: left;
+}
+.card .content .title img {
+  margin-top: -10px;
+}/*# sourceMappingURL=Card.css.map */

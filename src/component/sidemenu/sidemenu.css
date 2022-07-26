@@ -1,0 +1,18 @@
+aside {
+  width: 250px;
+  height: 100%;
+  position: absolute;
+  background: white;
+  z-index: 10;
+}
+aside .close-menu {
+  width: 100%;
+}
+aside .close-menu .close-icon {
+  display: flex;
+  justify-content: flex-end;
+  padding: 16px;
+}
+aside .close-menu .close-icon svg {
+  font-size: 40px;
+}/*# sourceMappingURL=sidemenu.css.map */

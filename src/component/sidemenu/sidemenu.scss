@@ -1,0 +1,19 @@
+aside {
+    width: 250px;
+    height: 100%;
+    position: absolute;
+    background: white;
+    z-index: 10;
+    .close-menu {
+        width: 100%;
+        .close-icon {
+            display: flex;
+            justify-content: flex-end;
+            padding: 16px;
+        svg {
+            font-size: 40px;
+        }
+        }
+
+    }
+}
