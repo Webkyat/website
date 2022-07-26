@@ -13,7 +13,7 @@ export default function Popup(prop) {
 
             <div className='content'>
                 <BsFillCheckCircleFill />
-                <h2>Thanks for you enquiry</h2>
+                <h2>Thanks for your enquiry</h2>
                 <p>We'll get back you soon</p>
                 <button onClick={handler}>Done</button>
             </div>
