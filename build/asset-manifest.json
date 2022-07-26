@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/web_design/static/css/main.23c52601.css",
-    "main.js": "/web_design/static/js/main.3e869a01.js",
+    "main.js": "/web_design/static/js/main.e9c25c5e.js",
     "static/media/webkyat_video.mp4": "/web_design/static/media/webkyat_video.cfdc0042fdd0f81cf2f4.mp4",
     "static/media/webkyat-logo.png": "/web_design/static/media/webkyat-logo.211e738c9244ca419396.png",
     "static/media/heart.png": "/web_design/static/media/heart.525add99d63bd350df85.png",
@@ -11,10 +11,10 @@
     "static/media/cash.png": "/web_design/static/media/cash.671272a7008061348dd0.png",
     "index.html": "/web_design/index.html",
     "main.23c52601.css.map": "/web_design/static/css/main.23c52601.css.map",
-    "main.3e869a01.js.map": "/web_design/static/js/main.3e869a01.js.map"
+    "main.e9c25c5e.js.map": "/web_design/static/js/main.e9c25c5e.js.map"
   },
   "entrypoints": [
     "static/css/main.23c52601.css",
-    "static/js/main.3e869a01.js"
+    "static/js/main.e9c25c5e.js"
   ]
 }
